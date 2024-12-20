@@ -8,11 +8,10 @@
   - [Output](#output2)
 
 # RestaurantRemastered
-Include the class exercise in the repo.
-The restaurant revisted
-Add setters and getters to all subclasses for menu item
-Override calculate_total_price() according to the order composition (e.g if the order includes a main course apply some disccount on beverages)
-Add the class Payment() following the class example.
+- The restaurant revisted
+- Add setters and getters to all subclasses for menu item
+- Override calculate_total_price() according to the order composition (e.g if the order includes a main course apply some disccount on beverages)
+- Add the class Payment() following the class example.
 
 Se modifico el codigo, se le añadieron setters y getters a las diferentes clases, ademas de añadir el ejemplo de payment hecho en clase, por ultimo se modifico el descuento anterior y ahora si la orden tiene mas de 1 `MainCourse` las bebidas tendran un 30% de descuento.
 ## Python Code
@@ -190,8 +189,8 @@ Paying $34.75 with card ending in 1234
 ```
 
 # Shape
-Create a superclass called Shape(), which is the base of the classes Reactangle() and Square(), define the methods compute_area and compute_perimeter in Shape() and then using polymorphism redefine the methods properly in Rectangle and in Square.
-Using the classes Point() and Line() define a new super-class Shape() with the following structure:
+- Create a superclass called Shape(), which is the base of the classes Reactangle() and Square(), define the methods compute_area and compute_perimeter in Shape() and then using polymorphism redefine the methods properly in Rectangle and in Square.
+- Using the classes Point() and Line() define a new super-class Shape() with the following structure:
 
 Se modifico el codigo, se añadio la clase shape ademas de las "hijas" de `Triangle` es decir equilatero, isoceles y escaleno, ademas de una cuarta que verifica si el triangulo es rectangulo 
 

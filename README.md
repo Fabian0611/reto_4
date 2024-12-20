@@ -5,7 +5,7 @@
   - [Output](#output)
 - [Shape](#shape)
   - [Python Code](#python-code2)
-  - [Output](#output)
+  - [Output](#output2)
 
 # RestaurantRemastered
 Include the class exercise in the repo.
@@ -378,7 +378,7 @@ if __name__ == "__main__":
     print("Is Right Triangle:", tri_rectangle.is_right_triangle())
 
 ```
-## Output
+## Output2
 ```bash
 Rectangle Area: 12
 Rectangle Perimeter: 14.0
